@@ -7,7 +7,7 @@ body{
     background-color: #000a27ec;
 }
 .continer{
-    width: 80%;
+    width: 50%;
     margin: auto;
 }
 .game{
@@ -44,6 +44,7 @@ span{
     justify-content: center;
     gap: 5px;
 }
+
 
 .square{
     width: 32%;
